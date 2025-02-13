@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+![snake animation dark](https://raw.githubusercontent.com/lovealan/lovealan/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![snake animation](https://raw.githubusercontent.com/lovealan/lovealan/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 <!--
 **lovealan/lovealan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
